@@ -1639,7 +1639,7 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 #EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="TV DAERAH",Huma Betang TV (720p) [Not 24/7]
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="🇮🇩Indonesia🇮🇩, Garuda TV (1080p)
+#EXTINF:-1 tvg-name="GarudaTV.id" tvg-name="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="🇮🇩Indonesia🇮🇩",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 #EXTINF:-1 tvg-id="GPRTV.id" tvg-logo="https://i.imgur.com/mYHiCJu.png" group-title="TV DAERAH",GPR TV (720p)
