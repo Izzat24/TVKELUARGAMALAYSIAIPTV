@@ -1468,8 +1468,11 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|Referer=http
 #EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be6135dc5905/a6a05d485df64ea3839392bb1da7eeeb.png",TVRI Nasional (B)
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-logo="[https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg](https://i.postimg.cc/SxhN9yyt/download-2024-03-02-T194211-592.jpg)",TVRI WORLD
+#EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/SxhN9yyt/download-2024-03-02-T194211-592.jpg",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/LX2xgQ51/download.webp",TVRI SPORT HD
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1558,7 +1561,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w525349813_b3
 #EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-id="" tvg-logo="https://i.postimg.cc/HLBFxHgP/20231111-164817.png",Maxstream 
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-
 #EXTINF:-1,tvg-id="🇮🇩Indonesia🇮🇩" tvg-name="BTVNEWS" tvg-logo="https://i.postimg.cc/4N3mYNQZ/download-74.png" group-title="🇮🇩INDONESIA🇮🇩",BTV NEWS
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
@@ -1575,9 +1577,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="🇮🇩Indonesia🇮🇩",Nusantara TV (720p)
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-
-#EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg",TVRI SPORT HD
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="TegarTVJogja.id" tvg-logo="https://i.imgur.com/XamnylQ.png" group-title="TV DAERAH",Tegar TV Jogja (720p)
 http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
