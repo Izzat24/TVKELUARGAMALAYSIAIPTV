@@ -6087,33 +6087,3 @@ https://p7s1-live-009-prod.akamaized.net/c5c609cf/t_009/sport1plus-de-hd/cenc-de
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-505/stream.mpd
 
-#EXTINF:- 1 tvg-id="Avatar:The Last Airbender 2024" tvg-name="Avatar:The Last Airbender 2024" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/avatar-the-last-airbender-netflix-poster.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png" group-title="Netflix", Avatar The Last Airbender Episode 1
-#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.178 Mobile Safari/537.36
-https://be6721.rcr72.waw04.cdn112.com/hls2/01/05584/xtsveofmmpil_x/index-v1-a1.m3u8?t=T-CCsFmxJONaYMKBSWIhhUPKv86cFsLkp5GUn7BAtRE&s=1708822532&e=43200&f=27923887&srv=09&asn=38466&sp=2500|Referer:https://furher.in/
-
-#EXTINF:- 1 tvg-id="Avatar:The Last Airbender 2024" tvg-name="Avatar:The Last Airbender 2024" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/avatar-the-last-airbender-netflix-poster.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png" group-title="Netflix", Avatar The Last Airbender Episode 2
-#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.178 Mobile Safari/537.36
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/05585/grcsujk5fj1s_x/index-v1-a1.m3u8?t=0Km93J2a61mW8VObvp9hKHseBBN8w6vYcbTq7UfLHTk&s=1708822603&e=43200&f=27926334&srv=28&asn=38466&sp=2500|Referer=https://furher.in/
-
-#EXTINF:- 1 tvg-id="Avatar:The Last Airbender 2024" tvg-name="Avatar:The Last Airbender 2024" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/avatar-the-last-airbender-netflix-poster.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png" group-title="Netflix", Avatar The Last Airbender Episode 3
-#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.178 Mobile Safari/537.36
-https://be6721.rcr72.waw04.cdn112.com/hls2/01/05585/bru8cz3o8v5b_x/index-v1-a1.m3u8?t=DhReZO9fscGRv53aDNZpdG8axuwwlP2eG8xfSY3fDBg&s=1708833442&e=43200&f=27927162&srv=34&asn=38466&sp=2500|Referer=https://furher.in/
-
-#EXTINF:- 1 tvg-id="Avatar:The Last Airbender 2024" tvg-name="Avatar:The Last Airbender 2024" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/avatar-the-last-airbender-netflix-poster.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png" group-title="Netflix", Avatar The Last Airbender Episode 4
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/05585/xh486bzukefu_x/index-v1-a1.m3u8?t=6fz4HDg0sqwubB9BNIzDoMMwCmlXilFn2Zg9eAVouGc&s=1708833622&e=43200&f=27927649&srv=10&asn=38466&sp=2500|Referer=https://furher.in/
-
-#EXTINF:- 1 tvg-id="Avatar:The Last Airbender 2024" tvg-name="Avatar:The Last Airbender 2024" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/avatar-the-last-airbender-netflix-poster.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png" group-title="Netflix", Avatar The Last Airbender Episode 5
-#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.178 Mobile Safari/537.36
-https://be4235.rcr32.ams02.cdn112.com/hls2/01/05585/emjrw9f91u2w_x/index-v1-a1.m3u8?t=yWCRuGPqjfDy4ffiS8MnlkZcy4ae_rVVBV33F8IptUM&s=1708834830&e=43200&f=27928115&srv=41&asn=38466&sp=2500|Referer=https://furher.in/
-
-#EXTINF:- 1 tvg-id="Avatar:The Last Airbender 2024" tvg-name="Avatar:The Last Airbender 2024" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/avatar-the-last-airbender-netflix-poster.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png" group-title="Netflix", Avatar The Last Airbender Episode 6
-#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.178 Mobile Safari/537.36
-https://be7713.rcr82.waw05.cdn112.com/hls2/01/05585/ubpk0sfr2nt3_x/index-v1-a1.m3u8?t=ys3Yg2B78eJ7awQiIzutbMR4HjOnAknL8R-ulhNo92Q&s=1708834721&e=43200&f=27928528&srv=11&asn=38466&sp=2500|Referer=https://furher.in/
-
-#EXTINF:- 1 tvg-id="Avatar:The Last Airbender 2024" tvg-name="Avatar:The Last Airbender 2024" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/avatar-the-last-airbender-netflix-poster.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png" group-title="Netflix", Avatar The Last Airbender Episode 7
-#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.178 Mobile Safari/537.36
-https://be4235.rcr32.ams02.cdn112.com/hls2/01/05585/9rspvflceh3e_x/index-v1-a1.m3u8?t=V126kXeOJVXr-nwb6DGv5U3l0nSxEAJbJ0R8hEoquhA&s=1708835324&e=43200&f=27928932&srv=07&asn=38466&sp=2500|Referer=https://furher.in/
-
-#EXTINF:- 1 tvg-id="Avatar:The Last Airbender 2024" tvg-name="Avatar:The Last Airbender 2024" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/avatar-the-last-airbender-netflix-poster.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png" group-title="Netflix", Avatar The Last Airbender Episode 8
-#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.178 Mobile Safari/537.36
-https://ss102.harylao.com/stream/F/8A/FzsoeKQ1ApnaqPH6Qn3Fb8SnwYPmkpxPUOA/hls480/FzsoeKQ1ApnaqPH6Qn3Fb8SnwYPmkpxPUOA480.m3u8|Referer=https://emturbovid.com/
