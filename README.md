@@ -1468,7 +1468,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|Referer=http
 #EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be6135dc5905/a6a05d485df64ea3839392bb1da7eeeb.png",TVRI Nasional (B)
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg",TVRI WORLD
+#EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-logo="[https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg](https://i.postimg.cc/SxhN9yyt/download-2024-03-02-T194211-592.jpg)",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
