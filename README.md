@@ -1579,6 +1579,109 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg",TVRI SPORT HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
+#EXTINF:-1 tvg-id="TegarTVJogja.id" tvg-logo="https://i.imgur.com/XamnylQ.png" group-title="TV DAERAH",Tegar TV Jogja (720p)
+http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-logo="https://i.imgur.com/0Vp3f2J.png" group-title="TV DAERAH",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SangajiTV.id" tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="TV DAERAH",Sangaji TV (720p) [Not 24/7]
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 tvg-id="SemarangTV.id" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="TV DAERAH",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
+
+#EXTINF:-1 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="TV DAERAH",Sakti TV (720p)
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RRINet.id" tvg-logo="https://i.imgur.com/4mWKUf4.png" group-title="TV DAERAH",RRI Net (1080p)
+https://rrinet.rri.co.id/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="RiauTV.id" tvg-logo="https://i.imgur.com/1g8FtJi.png" group-title="TV DAERAH",Riau TV (576p) [Not 24/7]
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadarTasikmalayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="TV DAERAH",Radar Tasikmalaya TV (720p) [Not 24/7]
+http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PujaTVAceh.id" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="TV DAERAH",Puja TV Aceh (1080p) [Not 24/7]
+https://v6.siar.us/pujatv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PalembangTV.id" tvg-logo="https://i.imgur.com/e2F1zyU.png" group-title="TV DAERAH",Pal TV (720p) [Not 24/7]
+https://v3.siar.us/paltv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Religion",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="TV DAERAH",Madu TV (576p)
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="TV DAERAH",Magna Channel (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="TV DAERAH",Jogja Istimewa TV (720p)
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="TV DAERAH",Jogja TV (720p) [Not 24/7]
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="JekTV.id" tvg-logo="https://i.imgur.com/wh75d1f.png" group-title="TV DAERAH",Jek TV (720p) [Not 24/7]
+http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="TV DAERAH",Jawa Pos TV (720p) [Not 24/7]
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="TV DAERAH",Inspira TV (720p) [Not 24/7]
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://i.imgur.com/192wiS1.png" group-title="TV DAERAH",Indonesiana.TV (720p)
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+
+#EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="TV DAERAH",Huma Betang TV (720p) [Not 24/7]
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="🇮🇩Indonesia🇮🇩, Garuda TV (1080p)
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:-1 tvg-id="GPRTV.id" tvg-logo="https://i.imgur.com/mYHiCJu.png" group-title="TV DAERAH",GPR TV (720p)
+https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="TV DAERAH",Duta TV (360p) [Not 24/7]
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DhohoTV.id" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="TV DAERAH",Dhoho TV (720p)
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="TV DAERAH",Bungo TV (480p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BRTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="TV DAERAH",BRTV (1080p) [Not 24/7]
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BatuTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="TV DAERAH",Batu TV (576p) [Not 24/7]
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+#EXTINF:-1 tvg-id="BMSTV.id" tvg-logo="https://i.imgur.com/pRyaqIi.png" group-title="TV DAERAH",Banyumas TV (720p) [Geo-blocked]
+https://v2.siar.us/bmstv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BantenTV.id" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="TVDAERAH",Banten TV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BalikapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="TV DAERAH",Balikapan TV (720p)
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FicomChannel.id" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png" group-title="🇮🇩Indonesia🇮🇩",Ficom Channel (720p)
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="Kids",My Kidz (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SurabayaTV" group-title="TV DAERAH" tvg-logo="https://i.postimg.cc/2yjQJZ0P/download-2024-01-12-T111306-719.png",Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+
+EXTINF:-1 tvg-id="KawanuaTV" group-title="TV DAERAH" tvg-logo="https://i.postimg.cc/59vGBdzv/download-2024-01-12-T111520-115.jpg",Kawanua TV
+http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WWE_%282014%29_logo.svg/580px-WWE_%282014%29_logo.svg.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Sports Campuran", WWE
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/11645.ts
 
@@ -4363,109 +4466,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 #EXTINF:-1, tvg-id="THE ROUNDUP: NO WAY OUT (2023)" tvg-name="THE ROUNDUP: NO WAY OUT (2023)" tvg-logo="https://i.postimg.cc/4NDbjJ3D/film-the-roundup-no-way-out-2023-lk21-d21-jpg.jpg" group-title="Korean Movies",THE ROUNDUP: NO WAY OUT (2023)
 https://stream.hownetwork.xyz/xxx/the-roundup-no-way-out-2023-bluray_X_fe76a6e0/19/480.m3u8|Referer=https=stream.hownetwork.xyz 
 
-#EXTINF:-1 tvg-id="TegarTVJogja.id" tvg-logo="https://i.imgur.com/XamnylQ.png" group-title="TV DAERAH",Tegar TV Jogja (720p)
-http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-logo="https://i.imgur.com/0Vp3f2J.png" group-title="TV DAERAH",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
-http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SangajiTV.id" tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="TV DAERAH",Sangaji TV (720p) [Not 24/7]
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-
-#EXTINF:-1 tvg-id="SemarangTV.id" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="TV DAERAH",Semarang TV (720p)
-http://116.254.112.74/hls/cakralive.m3u8
-
-#EXTINF:-1 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="TV DAERAH",Sakti TV (720p)
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RRINet.id" tvg-logo="https://i.imgur.com/4mWKUf4.png" group-title="TV DAERAH",RRI Net (1080p)
-https://rrinet.rri.co.id/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="RiauTV.id" tvg-logo="https://i.imgur.com/1g8FtJi.png" group-title="TV DAERAH",Riau TV (576p) [Not 24/7]
-http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadarTasikmalayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="TV DAERAH",Radar Tasikmalaya TV (720p) [Not 24/7]
-http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PujaTVAceh.id" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="TV DAERAH",Puja TV Aceh (1080p) [Not 24/7]
-https://v6.siar.us/pujatv/live/chunks.m3u8
-
-#EXTINF:-1 tvg-id="PalembangTV.id" tvg-logo="https://i.imgur.com/e2F1zyU.png" group-title="TV DAERAH",Pal TV (720p) [Not 24/7]
-https://v3.siar.us/paltv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Religion",Lingkar TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
-
-#EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="TV DAERAH",Madu TV (576p)
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="TV DAERAH",Magna Channel (1080p) [Not 24/7]
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="TV DAERAH",Jogja Istimewa TV (720p)
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="TV DAERAH",Jogja TV (720p) [Not 24/7]
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-
-#EXTINF:-1 tvg-id="JekTV.id" tvg-logo="https://i.imgur.com/wh75d1f.png" group-title="TV DAERAH",Jek TV (720p) [Not 24/7]
-http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="TV DAERAH",Jawa Pos TV (720p) [Not 24/7]
-https://v2.siar.us/jawapostv/live/chunks.m3u8
-
-#EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="TV DAERAH",Inspira TV (720p) [Not 24/7]
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://i.imgur.com/192wiS1.png" group-title="TV DAERAH",Indonesiana.TV (720p)
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
-
-#EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="TV DAERAH",Huma Betang TV (720p) [Not 24/7]
-https://v3.siar.us/humabetangtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="TV DAERAH",Garuda TV (1080p)
-http://stream.garuda.tv/live/garudatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GPRTV.id" tvg-logo="https://i.imgur.com/mYHiCJu.png" group-title="TV DAERAH",GPR TV (720p)
-https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="TV DAERAH",Duta TV (360p) [Not 24/7]
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DhohoTV.id" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="TV DAERAH",Dhoho TV (720p)
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="TV DAERAH",Bungo TV (480p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BRTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="TV DAERAH",BRTV (1080p) [Not 24/7]
-https://e1.siar.us/badartv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BatuTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="TV DAERAH",Batu TV (576p) [Not 24/7]
-http://117.103.69.219:8080/live/streaming/index.m3u8
-
-#EXTINF:-1 tvg-id="BMSTV.id" tvg-logo="https://i.imgur.com/pRyaqIi.png" group-title="TV DAERAH",Banyumas TV (720p) [Geo-blocked]
-https://v2.siar.us/bmstv/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BantenTV.id" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="TVDAERAH",Banten TV (720p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BalikapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="TV DAERAH",Balikapan TV (720p)
-https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FicomChannel.id" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png" group-title="🇮🇩Indonesia🇮🇩",Ficom Channel (720p)
-https://v3.siar.us/ficomchannel/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="Kids",My Kidz (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h191/index.m3u8
-
-
-#EXTINF:-1 tvg-id="SurabayaTV" group-title="TV DAERAH" tvg-logo="https://i.postimg.cc/2yjQJZ0P/download-2024-01-12-T111306-719.png",Surabaya TV
-https://e.siar.us/live/surabayatv.m3u8
-
-EXTINF:-1 tvg-id="KawanuaTV" group-title="TV DAERAH" tvg-logo="https://i.postimg.cc/59vGBdzv/download-2024-01-12-T111520-115.jpg",Kawanua TV
-http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Sports Campuran" tvg-id="PLAY SPORTS 1" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",PLAY SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4589,41 +4589,6 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"zdOZhpBXvDTIJ/JX9WJkOg", "kid":"ICqSfNkTEB3nZbDluz9QDw"}], "type":"temporary"}
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
-#EXTINF:-1 group-title="Asia World Cup Qatar 2023" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Asia World Cup Qatar 2023" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://iili.io/1NzJwX.png",Astro Arena HD CH801
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkyRTRNR0kyWVRndE5ERmlNaTAwTURBekxUZzVZMkl0TmpFeE1HSXhObVEwWldFMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4MDQ0MjczNCwiaWF0IjoxNjc5ODM4NzM0fQ.3U-Je5zexTmIGLhhixeFL_ocJjiG9SDnAZmXe4TV1Rg"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-id="AstroArena2" group-title="Asia World Cup Qatar 2023" tvg-logo="https://iili.io/1NzHut.png",Astro Arena 2 CH802 (OTTNAV ONLY)
-https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmxaV00yTmpJdE1EbGtNaTAwWXpBM0xXRXdPV0l0TkRsaFlUVTRObU5pTjJaaSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTE0NTk2OCwiaWF0IjoxNzAwNTQxOTY4fQ.z9cj6fHZED990ziN1O7BZAiye2ZWmDx-N8lZRbRwGpk"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="Asia World Cup Qatar 2023",Astro Arena Bola
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESTFPV1l6TmpRdFpqaGlNaTAwWVRZNExXSTBNbVV0TkdNNVpXVXpNRE0wTVdRMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5OTAxMzI0OSwiaWF0IjoxNjk4NDA5MjQ5fQ.hMm1MicFaf41RpNQk4KhRXqMMkakjnnoXxPpfNIPyeE"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png" group-title="Asia World Cup Qatar 2023",Astro Arena Bola 2
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/tC0TtqLw/download-2024-01-13-T191440-877.jpg",Boomerang US
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
@@ -4765,41 +4730,6 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
-
-
-#EXTINF:-1 tvg-id="Al-Kass-1-1" tvg-name="Al-Kass-1-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU" group-title="Asia World Cup Qatar 2023",Alkass One 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-https://webudit.webhd.ru/lb/premium781/index.m3u8
-
-#EXTINF:-1 tvg-id="Al-Kass-2-1" tvg-name="Al-Kass-2-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU" group-title="Asia World Cup Qatar 2023",Alkass Two 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-https://webudit.webhd.ru/lb/premium782/index.m3u8
-
-#EXTINF:-1 tvg-id="Al-Kass-3-1" tvg-name="Al-Kass-3-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU" group-title="Asia World Cup Qatar 2023",Alkass Three 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-https://webudit.webhd.ru/lb/premium783/index.m3u8
-
-#EXTINF:-1 tvg-id="Al-Kass-4-1" tvg-name="Al-Kass-4-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU" group-title="Asia World Cup Qatar 2023",Alkass Four 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-https://webudit.webhd.ru/lb/premium784/index.m3u8
-
-#EXTINF:-1 group-title="Asia World Cup Qatar 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU",Alkass Five
-http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=591587&extension=ts&play_token=svTvpFXaZc
-
-#EXTINF:-1 group-title="Asia World Cup Qatar 2023" tvg-logo="https://i.postimg.cc/VsjHGCZt/1000528048.jpg",BeIN Sports Asia Cup 1
-http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=1424739&extension=ts&play_token=E8PsDPl4mg
-
-#EXTINF:-1 group-title="Asia World Cup Qatar 2023" tvg-logo="https://i.postimg.cc/cLVbkBWQ/Screenshot-2024-01-15-002954.jpg",BeIN Sports Asia Cup 2
-http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=1424735&extension=ts&play_token=mA5fLMoilf
-
-#EXTINF:-1 tvg-id="" group-title="Asia World Cup Qatar 2023" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Super Sport HD
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium123/index.m3u8
 
 #EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 1 Premium
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
